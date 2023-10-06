@@ -6,8 +6,8 @@
 class Car : public Vehicle {
 public:
     Car();
-    int getSpeed() const; // Getter for speed
-    int getGear() const;  // Getter for gear
+    int getSpeed() const; 
+    int getGear() const;  
 };
 
 #endif
